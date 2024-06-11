@@ -1,0 +1,2 @@
+ASSISTANT_ID = 'Assistant_ID'
+OPENAI_KEY = 'OpenAI_KEY'
